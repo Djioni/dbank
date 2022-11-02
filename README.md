@@ -1,6 +1,7 @@
 # dbank
 
 Hello internet, learn MOTOKO by uing this demo DeFi.
+Mpongo Djioni Anganda
 
 
 ```
